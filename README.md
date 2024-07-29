@@ -1,6 +1,6 @@
 # Project-METAL-SNAKE  
 
-![Project METAL SNAKE logo](./images/Project-METAL-SNAKE-logo.png)  
+<img src="./images/Project-METAL-SNAKE-logo.png" alt="Project METAL SNAKE logo" height="300" width="300" style="display: block; margin: 0 auto;" />
 
 **Project Sponsor:** Brendan Gasparin  
 **Project Manager:** Brendan Gasparin  

@@ -1,10 +1,12 @@
 # Project-METAL-SNAKE  
 
-<img src="./images/Project-METAL-SNAKE-logo.png" alt="Project METAL SNAKE logo" height="300" width="300" style="display: block; margin: 0 auto;" />
+<img src="./images/Project-METAL-SNAKE-logo.png" alt="Project METAL SNAKE logo" height="300" width="300" />
 
 **Project Sponsor:** Brendan Gasparin  
 **Project Manager:** Brendan Gasparin  
 **Commencement Date:** 2024-07-29  
+
+---
 
 Project: METAL SNAKE is the creation of a home cybersecurity lab with a LAMP stack web server, Minecraft server, and Plex server for web development, programming, and training in cybersecurity.  
 

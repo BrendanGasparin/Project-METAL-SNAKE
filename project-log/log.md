@@ -16,6 +16,18 @@ The project's initiation phase begins today. I have constructed this Github repo
 
 Locally, I am using the [Obsidian](https://obsidian.md) note-taking app to keep track of any necessary knowledge and planning for the project. This will make it easy to transfer any content I want to Github.  
 
+In order to complete the Initiation phase I should produce the following deliverables this week:
+
+- Business case
+- Stakeholder register
+- Project charter
+- Project manager assignment
+- Scope statement
+- Initial risk register
+- High-level project plan
+- Requirements document
+- Introductory video
+
 ### Currently Working On:  
 
 - Initiation phase document templates (for later re-use in other projects)  
@@ -25,7 +37,7 @@ Locally, I am using the [Obsidian](https://obsidian.md) note-taking app to keep 
 
 ### Deliverables Completed:  
 
-N/A
+None
 
 ---
 

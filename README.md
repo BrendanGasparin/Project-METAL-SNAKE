@@ -14,5 +14,7 @@ I plan to thoroughly document this project in multiple media formats so remember
 
 I am using the Waterfall Model of Project Management in order to manage the project. Currently I am in Phase 1, the initiation phase. When I get to Phase 3, the execution phase, I might use a more agile method of project management to build the network and configure and program required software. 
 
+---
+
 Here is my daily project log:
 - [Project Log](./project-log/log.md)  

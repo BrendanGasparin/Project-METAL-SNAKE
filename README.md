@@ -1,4 +1,4 @@
-# Project-METAL-SNAKE  
+# Project METAL SNAKE  
 
 <img src="./images/Project-METAL-SNAKE-logo.png" alt="Project METAL SNAKE logo" height="300" width="300" />
 

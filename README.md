@@ -6,7 +6,7 @@
 **Project Manager:** Brendan Gasparin  
 **Commencement Date:** 2024-07-29  
 
----
+___
 
 Project: METAL SNAKE is the creation of a home cybersecurity lab with a LAMP stack web server, Minecraft server, and Plex server for web development, programming, and training in cybersecurity.  
 

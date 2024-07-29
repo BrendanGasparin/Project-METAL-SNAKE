@@ -12,7 +12,7 @@ This is the development blog for Project: METAL SNAKE.
 
 ### Phase 1: Initiation  
 
-The project's initiation phase begins today. I have constructed this Github repository and log to keep track of project progress, documentation, and any code files I want to share publically.  
+The project's initiation phase begins today. I have constructed this Github repository and log to keep track of project progress, documentation, and any code files I want to share publicly.  
 
 Locally, I am using the [Obsidian](https://obsidian.md) note-taking app to keep track of any necessary knowledge and planning for the project. This will make it easy to transfer any content to Github.  
 

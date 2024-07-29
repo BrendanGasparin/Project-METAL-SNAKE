@@ -18,10 +18,10 @@ Locally, I am using the [Obsidian](https://obsidian.md) note-taking app to keep 
 
 ### Currently Working On:  
 
-- Initiation phase document templates  
+- Initiation phase document templates (for later re-use in other projects)  
 - Business case  
 - Stakeholder register  
-- Github repository and log  
+- Github repository and this blog  
 
 ### Deliverables Completed:  
 

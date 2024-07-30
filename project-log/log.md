@@ -8,6 +8,23 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-07-30  
+
+**Phase 1:** Initiation  
+
+Today I worked on the project initiation templates, focusing on the project manager assignment and initial risk register.  
+
+I also worked on the business case. It is about 50% complete.
+
+### Currently Working On:  
+
+- Initiation phase document templates (for later re-use in other projects)  
+- Business case  
+
+### Deliverables Completed:  
+
+None
+
 ## 2024-07-29  
 
 **Phase 1:** Initiation  
@@ -32,7 +49,7 @@ In order to complete the Initiation phase I should produce the following deliver
 
 - Initiation phase document templates (for later re-use in other projects)  
 - Business case  
-- Stakeholder register  
+- Stakeholder register (needs project completion date and project duration)  
 - Github repository and this blog  
 
 ### Deliverables Completed:  

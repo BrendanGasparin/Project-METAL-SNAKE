@@ -1,6 +1,6 @@
 # Project: METAL SNAKE  
 
-<img src="./images/Project-METAL-SNAKE-logo.png" alt="Project METAL SNAKE logo" height="300" width="300" />
+<img src="./images/Project-METAL-SNAKE-logo-transparent-background.png" alt="Project METAL SNAKE logo" />
 
 **Project Sponsor:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  
 **Project Manager:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  

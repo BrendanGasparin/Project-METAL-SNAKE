@@ -12,6 +12,22 @@ This is the development blog for Project: METAL SNAKE.
 
 **Phase 1:** Initiation  
 
+Today I completed the preliminary schedule and the stakeholder register. I also updated the logo and worked on the business case.  
+
+### Currently Working On:  
+
+- Initiation phase document templates (for later re-use in other projects)  
+- Business case  
+
+### Deliverables Completed:  
+
+- [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
+- [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
+
+## 2024-07-30  
+
+**Phase 1:** Initiation  
+
 Today I worked on the project initiation templates, focusing on the project manager assignment and initial risk register.  
 
 I also worked on the business case. It is about 50% complete.

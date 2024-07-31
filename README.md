@@ -35,8 +35,9 @@ The Waterfall Model typically has five or six sequential stages that must be com
 Each of these phases have their own tasks and deliverables.  
 
 **Phase 1** deliverables will be: 
+- [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)
 - Business Case  
-- Stakeholder Register  
+- [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
 - Project Charter  
 - Project Manager Assignment  
 - Scope Statement  

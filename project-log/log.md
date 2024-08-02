@@ -8,7 +8,21 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
-## 2024-07-30  
+## 2024-08-01  
+
+**Phase 1:** Initiation  
+
+Today I worked on the business case. The financial projection section is taking a lot of time to complete.  
+
+### Currently Working On:  
+
+- Business case  
+
+### Deliverables Completed:  
+
+None
+
+## 2024-07-31  
 
 **Phase 1:** Initiation  
 

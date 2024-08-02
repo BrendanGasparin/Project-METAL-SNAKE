@@ -8,9 +8,11 @@
 
 ---
 
-Project: METAL SNAKE is the creation of an on-premises physical cybersecurity lab with a LAMP stack web server and other services for web development, programming, and training in cybersecurity.  
+Project: METAL SNAKE is the creation of an on-premises physical cybersecurity lab with a LAMP stack web server and other services for web development, programming, and training in cybersecurity. It also involves the creation of cloud-based virtual machine instances to host client websites and a System Information and Event Management (SIEM) system.  
 
-I plan to thoroughly document this project in multiple media formats so remember to give this repository a star and give [me](https://github.com/brendangasparin) a follow on Github.    
+I plan to thoroughly document this project in multiple media formats so that i can be replicated.  
+
+Remember to give this repository a star and give [me](https://github.com/brendangasparin) a follow on Github.    
 
 ---
 

@@ -26,11 +26,12 @@ Today I completed the scope statement.
 
 **Phase 1:** Initiation  
 
-Today I worked on the business case and completed the Project Manager Assignment document. There is only one more day in this phase and I have so much to do.  
+Today I worked on the business case and completed the [Project Manager Assignment](../docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf) document. There is only one more day in this phase and I have so much to do.  
 
 ### Currently Working On:  
 
 - Business case  
+- [Project Manager Assignment](../docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 
 ### Deliverables Completed:  
 
@@ -79,6 +80,8 @@ Today I completed the preliminary schedule and the stakeholder register. I also 
 
 - [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
 - [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
+- [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
+- [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
 
 ## 2024-07-30  
 
@@ -101,11 +104,11 @@ None
 
 **Phase 1:** Initiation  
 
-The project's initiation phase begins today. I have constructed this Github repository and log to keep track of project progress, documentation, and any code files I want to share publicly.  
+The project's initiation phase begins today. This Github repository has been created to keep track of project progress, documentation, and code files.  
 
 Locally, I am using the [Obsidian](https://obsidian.md) note-taking app to keep track of any necessary knowledge and planning for the project. This will make it easy to transfer any content I want to Github.  
 
-In order to complete the Initiation phase I should produce the following deliverables this week:
+In order to complete the Initiation phase I should produce the following deliverables this week:  
 
 - Business case
 - Stakeholder register
@@ -113,9 +116,12 @@ In order to complete the Initiation phase I should produce the following deliver
 - Project manager assignment
 - Scope statement
 - Initial risk register
+- Introductory video
+
+The following initiation phase deliverables are also desirable, but were not completed due to time constraints, and because they can be completed in phase 2:  
+
 - High-level project plan
 - Requirements document
-- Introductory video
 
 ### Currently Working On:  
 

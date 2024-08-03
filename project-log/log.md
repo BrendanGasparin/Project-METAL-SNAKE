@@ -20,7 +20,7 @@ Today I worked on the business case and completed the Project Manager Assignment
 
 ### Deliverables Completed:  
 
-- Project Manager Assignment
+- [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)
 
 ## 2024-08-02  
 

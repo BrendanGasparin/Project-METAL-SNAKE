@@ -41,7 +41,7 @@ Each of these phases have their own tasks and deliverables.
 - Business Case  
 - [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
 - Project Charter  
-- Project Manager Assignment  
+- [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 - Scope Statement  
 - Initial Risk Register  
 - High-Level Project Plan  

@@ -14,6 +14,8 @@ This is the development blog for Project: METAL SNAKE.
 
 Today I completed the scope statement.  
 
+I have noticed I am using Obsidian less and less to record document template information and instead opting to simply create the templates in Microsoft Word and Excel. If I were to take high-level notes and create the templates at the same time it would take me twice as long and I am strapped for time. I can copy and paste the template information into Obsidian later.  
+
 ### Currently Working On:  
 
 - Business case, [Scope Statement](../docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf), Risk Register  

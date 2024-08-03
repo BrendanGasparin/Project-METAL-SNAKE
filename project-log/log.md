@@ -20,7 +20,7 @@ Today I worked on the business case and completed the Project Manager Assignment
 
 ### Deliverables Completed:  
 
-- [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)
+- [Project Manager Assignment](../docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)
 
 ## 2024-08-02  
 
@@ -63,8 +63,8 @@ Today I completed the preliminary schedule and the stakeholder register. I also 
 
 ### Deliverables Completed:  
 
-- [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
-- [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
+- [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
+- [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
 
 ## 2024-07-30  
 

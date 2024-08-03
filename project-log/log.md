@@ -8,6 +8,34 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-03  
+
+**Phase 1:** Initiation  
+
+Today I worked on the business case and completed the Project Manager Assignment document. There is only one more day in this phase and I have so much to do.  
+
+### Currently Working On:  
+
+- Business case  
+
+### Deliverables Completed:  
+
+- Project Manager Assignment
+
+## 2024-08-02  
+
+**Phase 1:** Initiation  
+
+Today I worked on the business case. I realized I had done the financial projections wrong and had to restart them. The business case is taking forever.  
+
+### Currently Working On:  
+
+- Business case  
+
+### Deliverables Completed:  
+
+None
+
 ## 2024-08-01  
 
 **Phase 1:** Initiation  

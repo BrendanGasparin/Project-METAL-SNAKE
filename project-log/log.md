@@ -8,6 +8,20 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-04  
+
+**Phase 1:** Initiation  
+
+Today I completed the scope statement.  
+
+### Currently Working On:  
+
+- Business case, [Scope Statement](../docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf), Risk Register  
+
+### Deliverables Completed:  
+
+- [Scope Statement](../docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf)
+
 ## 2024-08-03  
 
 **Phase 1:** Initiation  
@@ -20,7 +34,7 @@ Today I worked on the business case and completed the Project Manager Assignment
 
 ### Deliverables Completed:  
 
-- [Project Manager Assignment](../docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)
+- [Project Manager Assignment](../docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 
 ## 2024-08-02  
 

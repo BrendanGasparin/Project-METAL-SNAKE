@@ -44,8 +44,10 @@ Each of these phases have their own tasks and deliverables.
 - [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 - [Scope Statement](./docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf)  
 - [Initial Risk Register](./docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+- Introductory Video  
+
+These deliverables are highly recommended in the initiation phase but will not be released then because of time constrants:  
 - High-Level Project Plan  
 - Requirements Document  
-- Introductory Video  
 
 As Project: METAL SNAKE is being executed publicly, these deliverables will be released (with contact details redacted) using this Github repository and YouTube.  

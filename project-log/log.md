@@ -12,29 +12,15 @@ This is the development blog for Project: METAL SNAKE.
 
 **Phase 2:** Planning & Design (and unfinished Initiation documentation)  
 
-Completed a preliminary [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf).  
+Completed a preliminary [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf). I am way behind on my schedule.  
 
 ### Currently Working On:  
 
-- Business case, [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+- Business case, [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
 
 ### Deliverables Completed:  
 
 - [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
-
-## 2024-08-04  
-
-**Phase 1:** Initation  
-
-I am way behind on my schedule. In the early hours of the morning I completed the preliminary risk register.  
-
-### Currently Working On:  
-
-- Business case, Risk Register  
-
-### Deliverables Completed:  
-
-- None
 
 ## 2024-08-04  
 

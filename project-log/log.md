@@ -1,16 +1,30 @@
 # Project: METAL SNAKE Development Blog  
 
-<img src="../images/Project-METAL-SNAKE-logo-github-cover.png" alt="Project METAL SNAKE logo" />
+<img src="../images/Project-METAL-SNAKE-logo-github-cover.png" alt="Project METAL SNAKE logo" />  
 
----
+---  
 
 This is the development blog for Project: METAL SNAKE.  
 
 ---
 
+## 2024-08-05  
+
+**Phase 2:** Planning & Design (and unfinished Initiation documentation)  
+
+Completed a preliminary [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf).  
+
+### Currently Working On:  
+
+- Business case, [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+
+### Deliverables Completed:  
+
+- [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+
 ## 2024-08-04  
 
-**Phase 1:** Planning & Design  
+**Phase 1:** Initation  
 
 I am way behind on my schedule. In the early hours of the morning I completed the preliminary risk register.  
 

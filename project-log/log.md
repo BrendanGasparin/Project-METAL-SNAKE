@@ -10,6 +10,20 @@ This is the development blog for Project: METAL SNAKE.
 
 ## 2024-08-04  
 
+**Phase 1:** Planning & Design  
+
+I am way behind on my schedule. In the early hours of the morning I completed the preliminary risk register.  
+
+### Currently Working On:  
+
+- Business case, Risk Register  
+
+### Deliverables Completed:  
+
+- None
+
+## 2024-08-04  
+
 **Phase 1:** Initiation  
 
 Today I completed the scope statement, and a template for the risk register.  

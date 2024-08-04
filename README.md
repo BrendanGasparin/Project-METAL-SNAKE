@@ -43,7 +43,7 @@ Each of these phases have their own tasks and deliverables.
 - Project Charter  
 - [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 - [Scope Statement](./docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf)  
-- Initial Risk Register  
+- [Initial Risk Register](./docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
 - High-Level Project Plan  
 - Requirements Document  
 - Introductory Video  

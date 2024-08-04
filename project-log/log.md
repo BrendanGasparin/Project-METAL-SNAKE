@@ -12,9 +12,11 @@ This is the development blog for Project: METAL SNAKE.
 
 **Phase 1:** Initiation  
 
-Today I completed the scope statement.  
+Today I completed the scope statement, and a template for the risk register.  
 
-I have noticed I am using Obsidian less and less to record document template information and instead opting to simply create the templates in Microsoft Word and Excel. If I were to take high-level notes and create the templates at the same time it would take me twice as long and I am strapped for time. I can copy and paste the template information into Obsidian later.  
+This is the last day of the initiation phase and I am already behind schedule, as I haven't finished the business case or even started the project charter. I will work my buns off in the next 24 hours to try and catch up.  
+
+I have noticed I am using Obsidian less and less to record document template information and instead opting to simply create the templates in Microsoft Word and Excel. If I were to take notes in Obsidian and create the templates simultaneously it would take me twice as long and I am too strapped for time. I can copy and paste the template information into Obsidian later.  
 
 ### Currently Working On:  
 

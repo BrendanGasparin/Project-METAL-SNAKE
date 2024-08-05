@@ -20,6 +20,7 @@ Completed a preliminary [risk register](../docs/phase-1.0/METAL-SNAKE-Risk-Regis
 
 ### Deliverables Completed:  
 
+- [Project Charter](../docs/phase-1.0/METAL-SNAKE-Project-Charter.pdf)
 - [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
 
 ## 2024-08-04  

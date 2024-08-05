@@ -40,7 +40,7 @@ Each of these phases have their own tasks and deliverables.
 - [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)
 - Business Case  
 - [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
-- Project Charter  
+- [project charter](../docs/phase-1.0/METAL-SNAKE-Project-Charter.pdf)  
 - [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  
 - [Scope Statement](./docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf)  
 - [Initial Risk Register](./docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  

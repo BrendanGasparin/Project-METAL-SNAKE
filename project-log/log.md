@@ -8,6 +8,50 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-08  
+
+**Phase 1:** Initiation  
+
+Updated [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf) to account for the fact that the document deliverables are taking more time than anticipated. Added one week to initiation and planning phases to account for project documentation, and one week to closure phase to allow for sufficient software documentation.  
+
+Updated the [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf). Still working on the Business Case.  
+
+### Currently Working On:  
+
+- Business Case, [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)   
+
+### Deliverables Completed:  
+
+[Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
+
+## 2024-08-07  
+
+**Phase 1:** Initiation  
+
+Got very little work done. Thinking of changing the project schedule to incorporate two weeks for initiation, planning, and closure phases to allow for concentration and completion of documentation.  
+
+### Currently Working On:  
+
+- Business Case  
+
+### Deliverables Completed:  
+
+None  
+
+## 2024-08-06  
+
+**Phase 1:** Initiation  
+
+I did not complete any deliverables today but I did enlist an intern for help with the organization.  
+
+### Currently Working On:  
+
+- Business Case, Initiation Phase Templates  
+
+### Deliverables Completed:  
+
+None  
+
 ## 2024-08-05  
 
 **Phase 2:** Planning & Design (and unfinished Initiation documentation)  
@@ -98,9 +142,7 @@ Today I completed the preliminary schedule and the stakeholder register. I also 
 ### Deliverables Completed:  
 
 - [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
-- [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
-- [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)  
-- [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
+- [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)    
 
 ## 2024-07-30  
 

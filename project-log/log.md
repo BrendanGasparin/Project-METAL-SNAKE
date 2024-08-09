@@ -8,6 +8,20 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-09  
+
+**Phase 1:** Initiation  
+
+
+
+### Currently Working On:  
+
+- Business Case   
+
+### Deliverables Completed:  
+
+None  
+
 ## 2024-08-08  
 
 **Phase 1:** Initiation  

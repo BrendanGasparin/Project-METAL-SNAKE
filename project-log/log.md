@@ -14,7 +14,11 @@ This is the development blog for Project: METAL SNAKE.
 
 Updated [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf) to account for the fact that the document deliverables are taking more time than anticipated. Added one week to initiation and planning phases to account for project documentation, and one week to closure phase to allow for sufficient software documentation.  
 
-Updated the [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf). Still working on the Business Case.  
+Updated the [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf).  
+
+Still working on the Business Case. Today I worked on the Benefits Realization section.  
+
+Started Logan's training in HTML.  
 
 ### Currently Working On:  
 

@@ -8,11 +8,25 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-10  
+
+**Phase 1:** Initiation  
+
+Finished the Benefits Realization section of the Business Case. Working on the Risk Assessment and Analysis. Updated the stakeholder register to include vendors. Updated the Risk Register with reworded risk descriptions and updated risk likelihoods, impacts, and risk scores. Uploaded the updated preliminary schedule, which I forgot to upload earlier this week.  
+
+### Currently Working On:  
+
+- Business Case, [Preliminary Schedule](../docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf), [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf), [Stakeholder Register](../docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
+
+### Deliverables Completed:  
+
+None  
+
 ## 2024-08-09  
 
 **Phase 1:** Initiation  
 
-
+Worked on the Benefits Realization section of the Business Case.  
 
 ### Currently Working On:  
 

@@ -8,6 +8,22 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-11  
+
+**Phase 1:** Initiation  
+
+Finished the Risk Assessment and Analysis section of the Business Case. Updated the Risk Register with management strategies.  
+
+This is the last day of the Initiation Phase, which I have already extended by one week. I am going to burn the midnight oil to try and complete the Business Case and advance to Phase 2 tomorrow.  
+
+### Currently Working On:  
+
+- Business Case, [Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+
+### Deliverables Completed:  
+
+[Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
+
 ## 2024-08-10  
 
 **Phase 1:** Initiation  

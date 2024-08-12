@@ -8,6 +8,22 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-12  
+
+**Phase 2:** Planning and Design  
+
+I was still a bit behind on the business case, so I spent today completing it. It is a 52 page document.  
+
+I am going to spend the rest of the night researching what is required by the Planning and Design phase so that I can begin it tomorrow.  
+
+### Currently Working On:  
+
+- [Business Case](../docs/phase-1.0/METAL-SNAKE-Business-Case.pdf)  
+
+### Deliverables Completed:  
+
+[Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf) 
+
 ## 2024-08-11  
 
 **Phase 1:** Initiation  

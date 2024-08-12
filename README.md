@@ -38,7 +38,7 @@ Each of these phases have their own tasks and deliverables.
 
 **Phase 1** deliverables will be: 
 - [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)
-- Business Case  
+- [Business Case](../docs/phase-1.0/METAL-SNAKE-Business-Case.pdf)  
 - [Stakeholder Register](./docs/phase-1.0/METAL-SNAKE-Stakeholder-Register.pdf)  
 - [project charter](../docs/phase-1.0/METAL-SNAKE-Project-Charter.pdf)  
 - [Project Manager Assignment](./docs/phase-1.0/METAL-SNAKE-Project-Manager-Assignment.pdf)  

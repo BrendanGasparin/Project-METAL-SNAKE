@@ -8,6 +8,18 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-13  
+
+**Phase 2:** Planning and Design  
+
+Spent some time today correcting incongruencies between phase 1 documents.  
+
+Did research on phase 2, phase 2 deliverables, and completed a template for the Project Plan.  
+
+### Currently Working On:  
+
+- Project Plan
+
 ## 2024-08-12  
 
 **Phase 2:** Planning and Design  

@@ -8,17 +8,40 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-14  
+
+**Phase 2:** Planning and Design  
+
+Obtained stakeholder approval for the project.  
+
+Continued research on phase 2 and phase 2 deliverables.  
+
+Updated the [scope statement](../docs/phase-2.0/METAL-SNAKE-Scope-Statement.pdf) with phase 2 deliverables.  
+
+### Currently Working On:  
+
+- Project Plan  
+- [Scope Statement](../docs/phase-2.0/METAL-SNAKE-Scope-Statement.pdf)  
+
+### Deliverables Completed:  
+
+None  
+
 ## 2024-08-13  
 
 **Phase 2:** Planning and Design  
 
 Spent some time today correcting incongruencies between phase 1 documents.  
 
-Did research on phase 2, phase 2 deliverables, and completed a template for the Project Plan.  
+Did research on phase 2, phase 2 deliverables, and started a template for the Project Plan.  
 
 ### Currently Working On:  
 
 - Project Plan
+
+### Deliverables Completed:  
+
+None  
 
 ## 2024-08-12  
 
@@ -34,7 +57,7 @@ I am going to spend the rest of the night researching what is required by the Pl
 
 ### Deliverables Completed:  
 
-[Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf) 
+[Risk Register](../docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
 
 ## 2024-08-11  
 

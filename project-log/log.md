@@ -8,6 +8,42 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-16  
+
+**Phase 2:** Planning and Design  
+
+Continued research on phase 2 and phase 2 deliverables. Completed research on the non-technical documentation:  
+
+- Project Plan  
+- Scope Statement (Phase 2)  
+- Requirements Document  
+- Resource Plan  
+- Risk Management Plan  
+
+This is taking too long. I think I either need more than two weeks for this phase (unacceptable), or I need to start working my buns off to complete two documents per day.  
+
+### Currently Working On:  
+
+- Research  
+
+### Deliverables Completed:  
+
+None  
+
+## 2024-08-15  
+
+**Phase 2:** Planning and Design  
+
+Due to extenuating circumstances I did not work on Project: METAL SNAKE today.  
+
+### Currently Working On:  
+
+N/A
+
+### Deliverables Completed:  
+
+None  
+
 ## 2024-08-14  
 
 **Phase 2:** Planning and Design  

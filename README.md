@@ -31,10 +31,12 @@ The Waterfall Model typically has five or six sequential stages that must be com
 2. Planning and Design  
 3. Execution  
 4. Testing  
-5. Installation / Deployment  
+5. Deployment  
 6. Closure and Maintenance  
 
 Each of these phases have their own tasks and deliverables.  
+
+### Phase 1: Initiation  
 
 **Phase 1** deliverables will be: 
 - [Preliminary Schedule](./docs/phase-1.0/METAL-SNAKE-Preliminary-Schedule.pdf)
@@ -49,5 +51,28 @@ Each of these phases have their own tasks and deliverables.
 These deliverables are highly recommended in the initiation phase but will not be released then because of time constrants:  
 - High-Level Project Plan  
 - Requirements Document  
+
+### Phase 2: Planning and Design  
+
+**Phase 2** deliverables will be:  
+
+- Project Plan  
+- Scope Statement (Phase 2)  
+- Work Breakdown Structure (WBS)  
+- Requirements Document  
+- Resource Plan  
+- Risk Management Plan  
+- Planning and Design Video  
+- System Architecture Document  
+- Requirements Specification Document  
+- Technical Specification Document  
+- Data Model and Database Design Document  
+- Interface Design Document  
+- Security Design Document  
+- Network Design Document  
+- Deployment Plan  
+- Testing Strategy and Plan  
+
+---
 
 As Project: METAL SNAKE is being executed publicly, these deliverables will be released (with contact details redacted) using this Github repository and YouTube.  

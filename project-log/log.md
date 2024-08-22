@@ -8,6 +8,30 @@ This is the development blog for Project: METAL SNAKE.
 
 ---
 
+## 2024-08-22  
+
+**Phase 2:** Planning and Design  
+
+I have not written in this log for a few days because I have been panicking about getting the phase 2 documentation done. I realized that I am going to need another week to complete the technical documentation. Even then, I have to complete three documents a day for the next three days.  
+
+Because phase 2 now takes place over three weeks, the project deadline has been extended by another week.  
+
+I need to note in the final After Action Review how much more time I needed for the documentation phases then I anticipated.
+
+In the last few days I have completed the phase 2 Scope Statement, the Work Breakdown Structure (WBS), and the Communication Plan. I have also written templates for many of the other documents.  
+
+I am losing a lot of time by uploading the documents to Github on a daily basis. I have to convert the Word document to a PDF, and then redact personal information from the PDF. Then I usually find a typo or wrong information in the document, and need to correct it and repeat the conversion and redaction process. It would be much more efficient for me to upload documents less frequently. Perhaps once a week.  
+
+### Currently Working On:  
+
+- Research  
+
+### Deliverables Completed:  
+
+- Scope Statement  
+- Work Breakdown Structure (WBS)  
+- Communication Plan
+
 ## 2024-08-16  
 
 **Phase 2:** Planning and Design  

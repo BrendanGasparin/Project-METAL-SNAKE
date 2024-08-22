@@ -5,6 +5,8 @@
 **Project Sponsor:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  
 **Project Manager:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  
 **Commencement Date:** 2024-07-29  
+**Estimated Completion Date:** 2024-10-24
+**Estimated Project Duration:** 17 Weeks  
 
 ---
 
@@ -12,11 +14,11 @@ Project: METAL SNAKE is the creation of an on-premises physical cybersecurity la
 
 This project will be throughly documented in multiple media formats so that it can be replicated.  
 
-Remember to give this repository a star and give Project Manager [Brendan Gasparin](https://github.com/brendangasparin) a follow on Github to keep up with other projects.    
+Remember to give this repository a star and give Project Manager [Brendan Gasparin](https://github.com/brendangasparin) a follow on Github to keep up with other projects.  
 
 ---
 
-Here is the daily project log:
+Here is the project log:
 - [Project Log](./project-log/log.md)  
 
 ---
@@ -54,15 +56,23 @@ These deliverables are highly recommended in the initiation phase but will not b
 
 ### Phase 2: Planning and Design  
 
-**Phase 2** deliverables will be:  
-
-- Project Plan  
+**Phase 2 SubPhase 1: Planning** deliverables will be:  
+ 
 - Scope Statement (Phase 2)  
-- Work Breakdown Structure (WBS)  
+- Work Breakdown Structure (WBS) 
+- Communications Plan
+- Change Management Plan 
 - Requirements Document  
 - Resource Plan  
+- Project Budget  
+- Cost Management Plan  
 - Risk Management Plan  
+- Quality Mangement Plan
+- Project Plan 
 - Planning and Design Video  
+
+**Phase 2 Subphase 2: Design** deliverables will be:  
+
 - System Architecture Document  
 - Requirements Specification Document  
 - Technical Specification Document  

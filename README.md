@@ -56,7 +56,7 @@ These deliverables are highly recommended in the initiation phase but will not b
 
 ### Phase 2: Planning and Design  
 
-**Phase 2 SubPhase 1: Planning** deliverables will be:  
+**Phase 2 Subphase 1: Planning** deliverables will be:  
  
 - Scope Statement (Phase 2)  
 - Work Breakdown Structure (WBS) 

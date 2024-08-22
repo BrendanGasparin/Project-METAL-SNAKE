@@ -62,6 +62,7 @@ These deliverables are highly recommended in the initiation phase but will not b
 - Work Breakdown Structure (WBS) 
 - Communications Plan
 - Change Management Plan 
+- Project Schedule
 - Requirements Document  
 - Resource Plan  
 - Project Budget  

@@ -12,6 +12,31 @@ This is the development blog for Project: METAL SNAKE.
 
 **Phase 2:** Planning and Design  
 
+Completed subphase 2.0 documentation. This is planning documentation. The design documentation will be subphase 2.1. 
+
+### Currently Working On:  
+
+- Phase 2.1 Design  
+
+### Deliverables Completed:  
+
+- [Scope Statement](../docs/phase-2.0/METAL-SNAKE-Scope-Statement.pdf)  
+- [Project Plan](../docs/phase-2.0/METAL-SNAKE-Project-Plan.pdf)  
+- [Requirements Document](../docs/phase-2.0/METAL-SNAKE-Requirements-Document.pdf)  
+- [Work Breakdown Structure (WBS)](../docs/phase-2.0/METAL-SNAKE-Work-Breakdown-Structure-(WBS).pdf)  
+- [Project Schedule](../docs/phase-2.0/METAL-SNAKE-Project-Schedule.pdf)  
+- [Resource Plan](../docs/phase-2.0/METAL-SNAKE-Resource-Plan.pdf)  
+- [Project Budget](../docs/phase-2.0/METAL-SNAKE-Project-Budget.pdf)  
+- [Cost Management Plan](../docs/phase-2.0/METAL-SNAKE-Cost-Management-Plan.pdf)  
+- [Risk Management Plan](../docs/phase-2.0/METAL-SNAKE-Risk-Management-Plan.pdf)  
+- [Quality Management Plan](../docs/phase-2.0/METAL-SNAKE-Quality-Management-Plan.pdf)  
+- [Communications Plan](../docs/phase-2.0/METAL-SNAKE-Communications-Plan.pdf)  
+- [Change Management Plan](../docs/phase-2.0/METAL-SNAKE-Change-Management-Plan.pdf)
+
+## 2024-08-22  
+
+**Phase 2:** Planning and Design  
+
 I have not written in this log for a few days because I have been panicking about getting the phase 2 documentation done. I realized that I am going to need another week to complete the technical documentation. Even then, I have to complete three documents a day for the next three days.  
 
 Because phase 2 now takes place over three weeks, the project deadline has been extended by another week.  

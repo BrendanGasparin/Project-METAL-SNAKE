@@ -31,7 +31,7 @@ Completed subphase 2.0 documentation. This is planning documentation. The design
 - [Risk Management Plan](../docs/phase-2.0/METAL-SNAKE-Risk-Management-Plan.pdf)  
 - [Quality Management Plan](../docs/phase-2.0/METAL-SNAKE-Quality-Management-Plan.pdf)  
 - [Communications Plan](../docs/phase-2.0/METAL-SNAKE-Communications-Plan.pdf)  
-- [Change Management Plan](../docs/phase-2.0/METAL-SNAKE-Change-Management-Plan.pdf)
+- [Change Management Plan](../docs/phase-2.0/METAL-SNAKE-Change-Management-Plan.pdf)  
 
 ## 2024-08-22  
 

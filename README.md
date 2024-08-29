@@ -49,6 +49,7 @@ Each of these phases have their own tasks and deliverables.
 - [Scope Statement](./docs/phase-1.0/METAL-SNAKE-Scope-Statement.pdf)  
 - [Initial Risk Register](./docs/phase-1.0/METAL-SNAKE-Risk-Register.pdf)  
 - Introductory Video  
+- Initiation Video  
 
 These deliverables are highly recommended in the initiation phase but will not be released then because of time constrants:  
 - High-Level Project Plan  

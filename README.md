@@ -5,7 +5,7 @@
 **Project Sponsor:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  
 **Project Manager:** [Brendan Gasparin](https://linktr.ee/brendangasparin)  
 **Commencement Date:** 2024-07-29  
-**Estimated Completion Date:** 2024-10-24
+**Estimated Completion Date:** 2024-10-24  
 **Estimated Project Duration:** 17 Weeks  
 
 ---
@@ -56,20 +56,20 @@ These deliverables are highly recommended in the initiation phase but will not b
 
 ### Phase 2: Planning and Design  
 
-**Phase 2 Subphase 1: Planning** deliverables will be:  
+**Phase 2 Subphase 1: Planning** deliverables are:  
  
-- Scope Statement (Phase 2)  
-- Work Breakdown Structure (WBS) 
-- Communications Plan
-- Change Management Plan 
-- Project Schedule
-- Requirements Document  
-- Resource Plan  
-- Project Budget  
-- Cost Management Plan  
-- Risk Management Plan  
-- Quality Mangement Plan
-- Project Plan 
+- [Scope Statement](../docs/phase-2.0/METAL-SNAKE-Scope-Statement.pdf)  
+- [Project Plan](../docs/phase-2.0/METAL-SNAKE-Project-Plan.pdf)  
+- [Requirements Document](../docs/phase-2.0/METAL-SNAKE-Requirements-Document.pdf)  
+- [Work Breakdown Structure (WBS)](../docs/phase-2.0/METAL-SNAKE-Work-Breakdown-Structure-(WBS).pdf)  
+- [Project Schedule](../docs/phase-2.0/METAL-SNAKE-Project-Schedule.pdf)  
+- [Resource Plan](../docs/phase-2.0/METAL-SNAKE-Resource-Plan.pdf)  
+- [Project Budget](../docs/phase-2.0/METAL-SNAKE-Project-Budget.pdf)  
+- [Cost Management Plan](../docs/phase-2.0/METAL-SNAKE-Cost-Management-Plan.pdf)  
+- [Risk Management Plan](../docs/phase-2.0/METAL-SNAKE-Risk-Management-Plan.pdf)  
+- [Quality Management Plan](../docs/phase-2.0/METAL-SNAKE-Quality-Management-Plan.pdf)  
+- [Communications Plan](../docs/phase-2.0/METAL-SNAKE-Communications-Plan.pdf)  
+- [Change Management Plan](../docs/phase-2.0/METAL-SNAKE-Change-Management-Plan.pdf)  
 - Planning and Design Video  
 
 **Phase 2 Subphase 2: Design** deliverables will be:  
